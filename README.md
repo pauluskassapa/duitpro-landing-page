@@ -22,8 +22,3 @@ Proyek ini dibuat dengan HTML, CSS, JavaScript, dan animasi AOS (Animate on Scro
 - AOS Library
 
 ---
-
-## 📸 Preview
-> *(Opsional)* Bisa upload screenshot landing page kamu ke folder `/assets/` lalu tampilkan pakai:
-```markdown
-![Preview](./assets/preview.png)
