@@ -1,24 +1,24 @@
 # 💰 DuitPro - Landing Page
 
-DuitPro adalah landing page sederhana yang dirancang untuk brand keuangan fiktif.  
-Proyek ini dibuat dengan HTML, CSS, JavaScript, dan animasi AOS (Animate on Scroll).
+**DuitPro** is a clean and responsive landing page designed for a fictional finance brand.  
+Built entirely with HTML and CSS, this project showcases a minimalist and mobile-friendly web layout.
 
-🔗 **Live Website**: [https://duitpro.netlify.app](https://duitpro.netlify.app)
-
----
-
-## 🚀 Fitur
-- Animasi scroll (AOS)
-- Responsive di mobile & desktop
-- Navigasi smooth scroll
-- Desain clean dan modern
+🔗 **Live Site**: [https://duitpro.netlify.app](https://duitpro.netlify.app)
 
 ---
 
-## 🛠️ Teknologi
+## 🚀 Features
+
+- Fully responsive design
+- Smooth and modern layout
+- Built without JavaScript
+- Lightweight and fast-loading
+
+---
+
+## 🛠️ Built With
+
 - HTML
 - CSS
-- JavaScript
-- AOS Library
 
 ---
